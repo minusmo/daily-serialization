@@ -1,0 +1,40 @@
+<programming-general>
+	<thoughts>	
+	LLM의 아웃풋을 통제할 수 있는 유일한 방법은 "테스트"이다.
+	테스트는 LLM의 생성에 있어서 유의미한 출력물의 제약을 줄 수 있는
+		가장 강력한 구현이다. 잘 정의된 유의미한 테스트를 
+		작성하는 것으로 프로그래머는 예측가능한 신뢰도 있는 출력을 얻게된다.
+		이 테스트는 사전정의된 Rules와 함께 사용할 때 더 효과적이다.
+	</thoughts>
+</programming-general>
+
+<music>
+<new>
+Lightbulb Sun - Porcupine Tree
+</new>
+</music>
+
+<video>
+고양이 좀비 애니 1화
+히카루가 죽은 여름 1화
+치킨런 - Dawn of Nuget
+추남 진성 파이터 1화
+페르마의 요리 1화
+</video>
+
+<personal-development>
+리눅스 커널 함수 읽기.
+e1000c 함수 중심. 네트워크 소켓 버퍼 구조체의 정의를 읽음.
+just를 uv와 함께 사용하는 프로젝트 매니징 방식 도입을 고려.
+</personal-development>
+
+<team-development>
+pylibvs를 적용한 렌더링 퍼포먼스 향상
+성능 개선 보고를 디스커션에 공유.
+</team-development>
+
+<language-learning>
+	ホッケ：魚の一つで、韓国では임연수어と呼ばれます。
+	とらえる：何かを捕まえるの意味もありますが、これより、何かを把握する、認識する、受け入れるの意味で使われます。
+	まかない：職場、特に食店で店で働いている職員の食事として用意されたものを「賄い(まかない)」と呼びます。
+</language-learning>
