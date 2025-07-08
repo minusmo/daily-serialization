@@ -1,0 +1,71 @@
+<programming-general>
+	<thoughts>	
+		AI를 위한 Rule을 적을 때는, 
+		원하는 결과물의 형태를 명시해주는 것이 좋다.
+		특히, 특정 포맷 예시를 들어 강제하는것이 효과적이다.
+		다음과 같다.
+		"""
+		<example>
+			<protocols>
+				<naming>
+					<function>
+						<name>
+						- Should be verb.
+						- Should be descriptive enough.
+						- Should describe one operation.
+						</name>
+						<arguments>
+						- Should be noun.
+						- Should be concise and descriptive but can be well shortened abbreviation.
+						- Prefer keyword arguments than positional arguments.
+						</arguments>
+						<body>
+							- Never be over 50 lines. If it should be, consider extracting highly related lines into another function.
+						</body>
+						<documentation>
+							- Should include comments for following things.
+							- Function itself, arguments, return value, constraints, raised errors.
+						</documentation>
+					</function>
+					<variables>
+						<local>
+							- Should be super descriptive.
+						</local>
+						<global>
+							- Should be desciptive enough not to be confused with other variables in the module.
+						</global>
+					</variables>
+				</naming>
+			</protocols>
+			def func_name(args):
+				var = value
+				return var
+		</example>
+		"""
+	</thoughts>
+</programming-general>
+
+<music>
+	<new>
+	  Sergio Mendes - Confetti
+	</new>
+</music>
+
+<video>
+</video>
+
+<personal-development>
+	리눅스 커널, 네트워크 드라이버 구현 코드 살펴보기,
+	네트워크 드라이버 참고서 읽기.
+</personal-development>
+
+<team-development>
+	변경된 모듈을 리팩터링하기 위한 단위테스트를 추가합니다.
+</team-development>
+
+<language-learning>
+	ハモリ：harmony
+	凜凛：늠름하다, 씩씩하다. 늠름하다할 때 "름"을 뜻하며, 사람 이름에도 쓰임.
+	窺う：우카가우라고 발음. (얼굴,표정,상태등)을 살피다, (기회를) 노리다의 뜻.
+	飢える：굶주리다, 간절히 원하다 라는 뜻의 자동사.
+</language-learning>
