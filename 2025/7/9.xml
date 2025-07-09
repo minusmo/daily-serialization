@@ -1,0 +1,35 @@
+<programming-general>
+	<thoughts>	
+		null
+	</thoughts>
+</programming-general>
+
+<music>
+	<new>
+		null
+	</new>
+</music>
+
+<video>
+	- Super Man - James Gun
+</video>
+
+<personal-development>
+	리눅스 커널, 디바이스 드라이버 코드 뜯어보기.
+	네트워크 디바이스 드라이버는 하드웨어에 맞추어
+	프레임을 물리 계층으로 내보낸다. 모든 이더넷 프레임은 소켓 버퍼 구조체로 추상화되어있으며,
+	보내고 받는 데이터는 소켓 버퍼의 리스트(스트림)이다.
+</personal-development>
+
+<team-development>
+	null
+</team-development>
+
+<language-learning>
+	耐える：무언가를 견디다. 특히 고통, 외로움등을 의미한다.
+	見通す：무언가(훤히) 내다보다 라던가, 멀리까지 한눈에 꿰뚫어보다 라는 의미를 가진다.
+	狂う：미치다. 무언가에 미칠듯이 열중하다 라는 의미도됨.
+	俯く：고개등을 "숙이다"의 의미.
+	腰掛け："걸상"이라는 의미도 있지만, 그보다 "임시거처" 혹은 "잠깐 몸담는 곳(직업,직장,장소)"을 의미하기도함.
+	真面:착실함,건실함의 의미로, 주로 나 형용사로 많이 쓰임.
+</language-learning>
