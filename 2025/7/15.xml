@@ -1,0 +1,45 @@
+<week>
+<programming-general>
+	<thoughts>	
+    TDD - Kent Beck
+    Canon TDD from KENT BECK on SubStack 
+    TDD를 실천하면서 사람들이 많이하는 실수들과 오해.
+    TDD는 programmer의 workflow이며, 각 단계를 따르는 것은 중요하나,
+    잘못된 실천을 해서는 안된다.
+    1. List Scenarios
+    2. Write tests(or a test) for the list.
+      2a. Make just "1" test pass at a time. 이 부분이 사람들이 많이 실수하는 부분이라고 합니다.
+      2b. Refactor
+      2c. Find another test if it looks exists.
+      Kent는 TDD의 실천에서 중요한 부분 중의 하나로, TDD는 인터페이스와 구현을 분리해주는
+      순기능이 있다고 합니다.
+      TDD workflow를 따라 테스트를 작성하는 것은 인터페이스에 대해 집중하게 해주고,
+      테스트가 모두 통과한 나중에 코드가 동작하는 상태에서 구현에 대해 또 집중하게 해줍니다.
+      (혹은 Refactor단계에서)
+	</thoughts>
+</programming-general>
+
+<music>
+	<new>
+    Virgin - Lorde
+	</new>
+</music>
+
+<video>
+  루팡 3세 vs 캣츠아이 2회차
+</video>
+
+<personal-development>
+</personal-development>
+
+<team-development>
+  TDD를 위한 새로운 프로젝트 생성
+</team-development>
+
+<language-learning>
+</language-learning>
+<reviews>
+  <weekly>
+  </weekly>
+</reviews>
+</week>
