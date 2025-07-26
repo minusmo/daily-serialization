@@ -1,0 +1,44 @@
+<week>
+<programming-general>
+	<thoughts>	
+    TDD workflow로 was를 개발하는 멘탈 모델.
+    high level architecture 설계 -> high level api design -> high level interface design(rest api, rpc)
+    -> low level api design -> low level interface design -> implementation -> refactor
+  
+    high level interface design에서 빠르게 시작하기 위해 생각해둘 것.
+    was의 high level interface design은 곧 rest api design이므로, http 프로토콜 스펙의 인터페이스를
+    커버하는 것이 중요하다. 어떤 인터페이스(api)가 1~500의 status를 기능에 따라 잘 만족하는지 검증하는
+    테스트를 수행한다고 생각하면 시작하기 쉽다.
+	</thoughts>
+</programming-general>
+
+<music>
+	<new>
+	</new>
+</music>
+
+<video>
+</video>
+
+<personal-development>
+</personal-development>
+
+<team-development>
+  통합 테스트 시나리오 100%(10/10) 커버.
+  ToDo: unittest driven으로 low level interface design.
+</team-development>
+
+<language-learning>
+  再入国：재입국
+  旧式：구식
+</language-learning>
+
+<life>
+  취로비자 수령.
+</life>
+
+<reviews>
+  <weekly>
+  </weekly>
+</reviews>
+</week>
